@@ -1,7 +1,7 @@
 <a id="readme-top"></a>
 
 <div align="center">
-  <a href="https://github.com/jerichd4c/java-practices-cohen/tree/main/java-connection-pool">
+  <a href="https://github.com/jerichd4c/java-practices/tree/main/java-connection-pool">
     <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/java_logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -60,11 +60,11 @@ To get a local copy up and running, follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/java-practices-cohen.git
+   git clone https://github.com/jerichd4c/java-practices.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd java-practices-cohen/java-connection-pool
+   cd java-practices/java-connection-pool
    ```
 3. Download the [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/download/).
 4. **Mandatory Step**: Place the `.jar` file in your project root and **add it to your project's classpath** in your IDE:
