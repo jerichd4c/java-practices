@@ -1,0 +1,10 @@
+# Java
+*.class
+out/
+target/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
