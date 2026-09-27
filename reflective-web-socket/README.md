@@ -2,7 +2,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/jerichd4c/java-practices-cohen/tree/main/reflective-web-socket">
+  <a href="https://github.com/jerichd4c/java-practices/tree/main/reflective-web-socket">
     <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/java_logo.svg" alt="Logo" width="80" height="80">
   </a>
 </div>
@@ -62,11 +62,11 @@ To get a local copy up and running, follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/java-practices-cohen.git
+   git clone https://github.com/jerichd4c/java-practices.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd java-practices-cohen/reflective-web-socket
+   cd java-practices/reflective-web-socket
    ```
 3. Compile the project (if using an IDE like IntelliJ, it will handle this automatically).
 4. Run the `BusinessApp` class located in `src/main/java/reflectivesocket/BusinessApp.java`.
