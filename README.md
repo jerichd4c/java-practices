@@ -62,7 +62,7 @@ Each project has its own dependencies and run instructions — see its individua
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/java-practices-cohen.git
+   git clone https://github.com/jerichd4c/java-practices.git
    ```
 2. Open the folder for the project you want to run.
 3. Follow that project's own README.
