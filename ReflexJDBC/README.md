@@ -3,7 +3,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-  <a href="https://github.com/jerichd4c/java-practices-cohen/tree/main/ReflexJDBC">
+  <a href="https://github.com/jerichd4c/java-practices/tree/main/ReflexJDBC">
     <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/java_logo.svg" alt="Logo" width="80" height="80">
   </a>
 
@@ -69,11 +69,11 @@ To get a local copy up and running, follow these steps.
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/jerichd4c/java-practices-cohen.git
+   git clone https://github.com/jerichd4c/java-practices.git
    ```
 2. Navigate to the project directory
    ```sh
-   cd java-practices-cohen/ReflexJDBC
+   cd java-practices/ReflexJDBC
    ```
 3. Download the [PostgreSQL JDBC Driver](https://jdbc.postgresql.org/download/).
 4. Place the `.jar` file in your project root and add it to your project's classpath in your IDE (e.g., *Referenced Libraries* in VS Code or *Project Structure* in IntelliJ).
@@ -112,7 +112,7 @@ ResultSet rs = db.ejecutarQuery("SELECT * FROM users");
 - [ ] Add support for additional database types (MySQL, SQLite)
 - [ ] Implement a more robust logging system
 
-See the [open issues](https://github.com/jerichd4c/java-practices-cohen/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/jerichd4c/java-practices/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
