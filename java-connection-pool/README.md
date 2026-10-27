@@ -2,7 +2,7 @@
 
 <div align="center">
   <a href="https://github.com/jerichd4c/java-practices/tree/main/java-connection-pool">
-    <img src="https://raw.githubusercontent.com/jerichd4c/ReflexJDBC/main/java_logo.svg" alt="Logo" width="80" height="80">
+    <img src="https://raw.githubusercontent.com/jerichd4c/logos/main/java_logo.svg" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">Java Connection Pool</h3>
